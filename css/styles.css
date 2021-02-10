@@ -1,3 +1,31 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/photo-1569982175971-d92b01cf8694.jpg);
+    font-family: aladin;
+    font-style: normal;
+    font-weight: 400;
+}
+    .titel { color: blanchedalmond;
+    font-style: normal;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+              }
+#writter {
+	font-size: 12px;
+color: white }
+
+.my-container {
+    background-color: #1D0BB9;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    text-align: center;
+    border-radius: 20px;
+    font-style: normal;
 }
 .main-text {
     font-style: italic;
