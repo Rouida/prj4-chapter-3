@@ -5,7 +5,7 @@
     border-left: 0;
     border-right: 0;
     border-bottom: 0;
-    border-top: 12px solid #2007CF;
+    border-top: 2px solid ;
     font-size: 100%;
 }
 body {
@@ -49,7 +49,8 @@ body {
     text-align: center;
     border-radius: 20px;
     font-style: normal;
-	color: aliceblue
+    color: aliceblue;
+    border-style: solid;
 }
 .main-text {
     font-family: 'Akaya Telivigala', cursive;
