@@ -36,11 +36,12 @@ body {
 }
 
 .my-container {
-    background-color: #FFA5B3;
+	background-color: #FFA5B3;
     margin: 15;
     padding: 12;
     text-align: center;
     border: 5px solid #C25757
+			
 }
 .main-text {
     font-family: 'Akaya Telivigala', cursive;
