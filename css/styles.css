@@ -18,21 +18,22 @@ body {
     color: blanchedalmond;
     font-style: normal;
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-    margin: 10;
     padding-top: 15px;
     padding-right: 15px;
     padding-left: 15px;
     padding-bottom: 15px;
     font-size: xx-large;
     top: 0px;
+    right: 0px;
               }
+.titel {
+}
 #writter {
     font-size: 12px;
     padding-top: 12px;
     padding-right: 12px;
     padding-left: 12px;
     padding-bottom: 12px;
-    margin: 10;
     color: white
 }
 
@@ -55,10 +56,10 @@ body {
 .main-text {
     font-family: 'Akaya Telivigala', cursive;
     text-align: center;
-    margin: 10;
-    padding-top: 43px;
-    padding-right: 43px;
-    padding-left: 43px;
-    padding-bottom: 43px;
+    width: 320px;
+    border: 5px;
+    margin-right: 100px;
+    margin-left: 100px;
     color: #FFFFFF;
+    margin-bottom: 46px;
 }
